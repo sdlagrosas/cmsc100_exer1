@@ -1,0 +1,16 @@
+body {
+	background-color: rgb(204, 0, 102)
+}
+
+h1{
+	font-size: 30;
+}
+
+h3{
+	font-style: italic;
+}
+
+h1,h3,h5 {
+	color: white;
+	text-align: center;
+}
